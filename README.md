@@ -81,7 +81,7 @@ ecommerce-sales-analysis/
 
 * Dataset obtained from Kaggle (Superstore Sales Dataset)
 * Initial data understanding
-
+Completed ✅
 ---
 
 ### 🟨 Phase 2 – Data Cleaning
@@ -89,7 +89,7 @@ ecommerce-sales-analysis/
 * Checked for missing values
 * Removed inconsistencies
 * Converted date columns to proper format
-
+Completed ✅
 ---
 
 ### 🟦 Phase 3 – Exploratory Data Analysis
