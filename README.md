@@ -24,7 +24,9 @@ Sales Dataset (CSV)
 ↓
 Data Cleaning (Python / Pandas)
 ↓
-Exploratory Data Analysis (Matplotlib)
+Feature Engineering
+↓
+Exploratory Data Analysis (EDA)
 ↓
 Data Visualization
 ↓
@@ -36,16 +38,17 @@ Business Insights
 
 ## 📊 Key Insights
 
-* Sales show peak performance during specific months (seasonal trends)
-* Certain product categories contribute the highest revenue
-* Regional analysis reveals top-performing and low-performing areas
-* Some products generate high sales but low profit margins
+* Sales peak during November and December, indicating seasonal demand
+* The West region generates the highest revenue
+* Technology category contributes the highest sales
+* Top products significantly impact overall revenue
 
 ---
 
 ## 🛠 Skills Demonstrated
 
 * Data Cleaning using **Python (Pandas)**
+* Feature Engineering
 * Exploratory Data Analysis (EDA)
 * Data Visualization using **Matplotlib**
 * Business Insight Generation
@@ -77,39 +80,52 @@ ecommerce-sales-analysis/
 
 ## 🚀 Implementation Steps
 
-### 🟩 Phase 1 – Data Collection
+### 🟩 Phase 1 – Data Collection ✅
 
 * Dataset obtained from Kaggle (Superstore Sales Dataset)
 * Initial data understanding
+
 Completed ✅
 ---
 
-### 🟨 Phase 2 – Data Cleaning
+### 🟨 Phase 2 – Data Cleaning ✅
 
 * Checked for missing values
-* Removed inconsistencies
+* Handled null values
 * Converted date columns to proper format
+
 Completed ✅
 ---
 
-### 🟦 Phase 3 – Exploratory Data Analysis
+### 🟦 Phase 3 – Feature Engineering ✅
 
-* Sales trend analysis (monthly/yearly)
-* Product performance analysis
-* Region-wise sales comparison
-* Profit analysis
+* Extracted Month from Order Date
+* Extracted Year from Order Date
+* Created time-based features for analysis
 
+Completed ✅
 ---
 
-### 🟥 Phase 4 – Data Visualization
+### 🟧 Phase 4 – Exploratory Data Analysis (EDA) ✅
 
-* Line chart for sales trends
-* Bar charts for top products
+* Total sales analysis
+* Region-wise sales comparison
+* Category-wise performance
+* Monthly sales trend analysis
+* Top product identification
+
+Completed ✅
+---
+
+### 🟥 Phase 5 – Data Visualization 🔄
+
+* Line chart for monthly sales trends
+* Bar chart for top products
 * Pie chart for regional distribution
 
 ---
 
-### 🟪 Phase 5 – Power BI Dashboard
+### 🟪 Phase 6 – Power BI Dashboard 🔄
 
 * KPI Cards (Total Sales, Total Profit)
 * Monthly Sales Trend
@@ -137,7 +153,7 @@ Completed ✅
 
 ## 💼 Interview Talking Point
 
-Built an end-to-end e-commerce sales analysis project using Python and Power BI. Performed data cleaning, exploratory analysis, and created interactive dashboards to identify sales trends, product performance, and regional insights for business decision-making.
+Built an end-to-end e-commerce sales analysis project using Python and Power BI. Performed data cleaning, feature engineering, exploratory analysis, and created visualizations to identify sales trends, product performance, and regional insights for business decision-making.
 
 ---
 
