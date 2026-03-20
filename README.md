@@ -117,12 +117,14 @@ Completed ✅
 Completed ✅
 ---
 
-### 🟥 Phase 5 – Data Visualization 🔄
+### 🟥 Phase 5 – Data Visualization ✅
 
 * Line chart for monthly sales trends
 * Bar chart for top products
 * Pie chart for regional distribution
 
+
+Completed ✅
 ---
 
 ### 🟪 Phase 6 – Power BI Dashboard 🔄
