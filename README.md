@@ -20,6 +20,7 @@ The goal of this project is to:
 
 ## 🚀 Workflow Pipeline
 
+```
 Sales Dataset (CSV)
 ↓
 Data Cleaning (Python / Pandas)
@@ -33,6 +34,7 @@ Data Visualization
 Power BI Dashboard
 ↓
 Business Insights
+```
 
 ---
 
@@ -85,7 +87,8 @@ ecommerce-sales-analysis/
 * Dataset obtained from Kaggle (Superstore Sales Dataset)
 * Initial data understanding
 
-Completed ✅
+✔ Completed
+
 ---
 
 ### 🟨 Phase 2 – Data Cleaning ✅
@@ -94,7 +97,8 @@ Completed ✅
 * Handled null values
 * Converted date columns to proper format
 
-Completed ✅
+✔ Completed
+
 ---
 
 ### 🟦 Phase 3 – Feature Engineering ✅
@@ -103,7 +107,8 @@ Completed ✅
 * Extracted Year from Order Date
 * Created time-based features for analysis
 
-Completed ✅
+✔ Completed
+
 ---
 
 ### 🟧 Phase 4 – Exploratory Data Analysis (EDA) ✅
@@ -114,7 +119,8 @@ Completed ✅
 * Monthly sales trend analysis
 * Top product identification
 
-Completed ✅
+✔ Completed
+
 ---
 
 ### 🟥 Phase 5 – Data Visualization ✅
@@ -123,16 +129,18 @@ Completed ✅
 * Bar chart for top products
 * Pie chart for regional distribution
 
+✔ Completed
 
-Completed ✅
 ---
 
-### 🟪 Phase 6 – Power BI Dashboard 🔄
+### 🟪 Phase 6 – Power BI Dashboard ✅
 
 * KPI Cards (Total Sales, Total Profit)
 * Monthly Sales Trend
 * Sales by Region
 * Top Products Visualization
+
+✔ Completed
 
 ---
 
@@ -147,9 +155,30 @@ Completed ✅
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Power BI Dashboard
 
-(Add your Power BI dashboard screenshot here)
+The project includes an interactive Power BI dashboard to visualize key business insights.
+
+### 🔹 Dashboard Features
+
+* KPI Cards (Total Sales, Total Profit)
+* Monthly Sales Trend Analysis
+* Top 10 Products by Sales
+* Sales Distribution by Region
+
+---
+
+### 📸 Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+---
+
+### 📥 How to Use
+
+1. Download the `.pbix` file from the `dashboard/` folder
+2. Open using **Microsoft Power BI Desktop**
+3. Explore the interactive dashboard
 
 ---
 
