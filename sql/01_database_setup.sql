@@ -1,9 +1,6 @@
 -- ==============================================================================
 -- 01_DATABASE_SETUP.SQL
 -- Project: E-Commerce Sales Analysis
--- Database Engine: MySQL 8.0+
--- Description: Creates database, defines schema with constraints and indexes,
---              and provides data loading procedures for sales_cleaned.csv.
 -- ==============================================================================
 
 -- ------------------------------------------------------------------------------
