@@ -52,6 +52,7 @@ Business Insights
 * Data Cleaning using **Python (Pandas)**
 * Feature Engineering
 * Exploratory Data Analysis (EDA)
+* Advanced SQL Analytics (**MySQL 8.0+**, CTEs, Window Functions)
 * Data Visualization using **Matplotlib**
 * Business Insight Generation
 * Dashboard Development using **Power BI**
@@ -64,7 +65,24 @@ Business Insights
 ecommerce-sales-analysis/
 │
 ├── data/
-│   └── sales.csv
+│   ├── sales.csv
+│   └── sales_cleaned.csv
+│
+├── sql/
+│   ├── 01_database_setup.sql
+│   ├── 02_data_validation.sql
+│   ├── 03_business_kpis.sql
+│   ├── 04_time_analysis.sql
+│   ├── 05_category_analysis.sql
+│   ├── 06_geographic_analysis.sql
+│   ├── 07_customer_analysis.sql
+│   ├── 08_product_analysis.sql
+│   ├── 09_shipping_analysis.sql
+│   ├── 10_cte_analysis.sql
+│   ├── 11_window_functions.sql
+│   ├── 12_advanced_business_analysis.sql
+│   ├── 13_final_insights.sql
+│   └── README.md
 │
 ├── notebook/
 │   └── sales_analysis.ipynb
@@ -146,12 +164,13 @@ ecommerce-sales-analysis/
 
 ## 🛠 Technical Stack
 
-| Category        | Tools                 |
-| --------------- | --------------------- |
-| Data Processing | Python, Pandas, NumPy |
-| Visualization   | Matplotlib, Power BI  |
-| Analysis        | Jupyter Notebook      |
-| Version Control | Git, GitHub           |
+| Category        | Tools                         |
+| --------------- | ----------------------------- |
+| Database & SQL  | MySQL 8.0+, Window Functions, CTEs |
+| Data Processing | Python, Pandas, NumPy         |
+| Visualization   | Matplotlib, Power BI          |
+| Analysis        | Jupyter Notebook, SQL Scripts |
+| Version Control | Git, GitHub                   |
 
 ---
 
