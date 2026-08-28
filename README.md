@@ -150,11 +150,13 @@ The Power BI data model has been created and saved in **Microsoft Power BI Deskt
 
 ## 📈 Key Business Insights
 
-1. **Sales Growth**: Sales increased from about $480K in 2015 to $722K in 2018, showing strong overall business growth.
+## 📊 Key Business Insights
 
-2. **Top Category**: Technology was the highest-performing category, contributing about 36.6% of total sales, followed by Furniture and Office Supplies.
+1. **Sales Growth**: Total sales increased from about **$480K in 2015 to $722K in 2018**, showing positive overall sales growth over the period.
 
-3. **Top Region & Segment**: The West region generated the highest sales at about 31.4%, while the Consumer segment contributed the largest share of sales at about 50.8%.
+2. **Top Category**: **Technology** was the highest-selling category, with about **$836K in sales**, followed by Furniture and Office Supplies.
+
+3. **Top Region & Customer Segment**: The **West region** generated the highest sales at about **$710K (31.4%)**, while the **Consumer segment** contributed the largest share at about **50.8%** of total sales.
 
 ---
 
